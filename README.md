@@ -72,19 +72,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=048A81&icon_color=2E4057&text_color=ffffff&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=048A81&text_color=ffffff&border_color=30363d"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&ring=048A81&fire=2E4057&currStreakLabel=048A81&border=30363d" />
-</div>
-
----
-
 ## 🏅 Certifications
 
 <div align="center">
